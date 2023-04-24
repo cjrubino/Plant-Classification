@@ -1,12 +1,10 @@
 # Project Name
 
- Add short description of project here > 
-
-![add image descrition here](direct image link here)
+ Cat dog image recogniton
 
 ## The Algorithm
 
-Add an explanation of the algorithm and how it works. Make sure to include details about how the code works, what it depends on, and any other relevant info. Add images or other descriptions for your project here. 
+I used a database with many pictures of cats and dogs. Then, I retrained using google colab. Then I downloaded the retrained model onto my nano.
 
 ## Running this project
 
